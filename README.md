@@ -28,7 +28,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [Spotify Clone]((https://github.com/GitHub-Sanjit/spotify-clone)) | Real-time music streaming with Socket.io, Clerk auth, Cloudinary |
+| [Spotify Clone](https://github.com/your-repo) | Real-time music streaming with Socket.io, Clerk auth, Cloudinary |
 | [MERN Auth System](https://github.com/your-repo) | JWT, bcrypt, email verification, password reset |
 | [Admin Dashboard](https://github.com/your-repo) | React + Recharts + Framer Motion + Tailwind |
 
