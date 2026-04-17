@@ -28,7 +28,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [Spotify Clone](https://github.com/your-repo) | Real-time music streaming with Socket.io, Clerk auth, Cloudinary |
+| [Spotify Clone]((https://github.com/GitHub-Sanjit/spotify-clone)) | Real-time music streaming with Socket.io, Clerk auth, Cloudinary |
 | [MERN Auth System](https://github.com/your-repo) | JWT, bcrypt, email verification, password reset |
 | [Admin Dashboard](https://github.com/your-repo) | React + Recharts + Framer Motion + Tailwind |
 
@@ -37,9 +37,9 @@
 ## Connect
 
 - 📧 sanjit.est14@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sanjit-sarkar124/))
+- 🐙 [GitHub]([https://github.com/your-username](https://github.com/GitHub-Sanjit))
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitHub-Sanjit&show_icons=true&theme=default)
