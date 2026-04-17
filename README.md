@@ -38,7 +38,7 @@
 
 - 📧 sanjit.est14@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjit-sarkar124/)
-- 🐙 [GitHub]((https://github.com/GitHub-Sanjit))
+- 🐙 [GitHub](https://github.com/GitHub-Sanjit)
 
 ---
 
