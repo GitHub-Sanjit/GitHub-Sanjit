@@ -17,7 +17,7 @@
 
 | Category       | Technologies |
 |----------------|--------------|
-| Languages      | JavaScript, Python, C, C++, SQL, PostgreSQL |
+| Languages      | JavaScript, TypeScript, Python, C, C++, SQL, PostgreSQL |
 | Frontend       | React, Next.js, Redux, Tailwind CSS |
 | Backend        | Node.js, Express, MongoDB |
 | Tools          | Git, GitHub, VS Code, Postman, Socket.io, Cloudinary |
