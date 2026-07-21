@@ -1,176 +1,178 @@
 # Hi there 👋 I'm Sanjit Sarkar
 
-### Full-Stack JavaScript Developer | Backend Engineer | Problem Solver
+### 🚀 Backend-Focused Full-Stack JavaScript Developer
 
-I'm a Full-Stack Developer passionate about building scalable web applications with modern JavaScript technologies. I enjoy designing REST APIs, developing backend systems, integrating payment gateways, and creating responsive user interfaces.
+I'm a passionate Full-Stack JavaScript Developer who enjoys building scalable backend systems, RESTful APIs, and modern web applications. I specialize in **Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, React, and Next.js**, with a strong focus on clean architecture, secure authentication, and real-world software development.
 
-I also have experience as a Python Programming Trainer, where I helped students build a strong foundation in programming and problem-solving.
+Previously, I worked as a **Python Programming Trainer** at Digicon Technologies PLC, where I helped students develop programming fundamentals and problem-solving skills.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full-Stack Developer specializing in **Node.js, Express.js, TypeScript, PostgreSQL, Prisma, React & Next.js**
-- 🔭 Currently building production-ready backend systems and full-stack applications
-- 🌱 Currently learning **System Design, AWS, Docker, CI/CD, and AI-powered Full-Stack Development**
-- 💡 Passionate about clean architecture, scalable APIs, and database design
-- 🧩 Solved **200+ LeetCode** problems
-- 👨‍🏫 Former **Python Programming Trainer** at Digicon Technologies PLC
-- 🤝 Open to Full-Stack and Backend Developer opportunities
+* 💻 Backend-Focused Full-Stack JavaScript Developer
+* 🚀 Building production-ready REST APIs & full-stack applications
+* 🔐 Experienced with JWT Authentication, Stripe Payments & Role-Based Authorization
+* 🗄️ Strong knowledge of PostgreSQL, Prisma ORM & Database Design
+* 🧩 Solved **200+ LeetCode** problems
+* 👨‍🏫 Former Python Programming Trainer at Digicon Technologies PLC
+* 🌱 Currently learning **System Design, Docker, AWS, CI/CD & AI-powered Software Engineering**
+* 🤝 Open to Backend & Full-Stack Developer opportunities
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
-- JavaScript (ES6+)
-- TypeScript
-- Python
-- C
-- C++
-- SQL
+* JavaScript (ES6+)
+* TypeScript
+* Python
+* SQL
+* C
+* C++
 
-## Frontend
+### Frontend
 
-- React.js
-- Next.js
-- Redux Toolkit
-- Tailwind CSS
-- HTML5
-- CSS3
+* React.js
+* Next.js
+* Redux Toolkit
+* Tailwind CSS
+* HTML5
+* CSS3
 
-## Backend
+### Backend
 
-- Node.js
-- Express.js
-- Prisma ORM
-- PostgreSQL
-- MongoDB
-- JWT Authentication
-- REST API Development
-- Stripe Payment Integration
+* Node.js
+* Express.js
+* PostgreSQL
+* Prisma ORM
+* MongoDB
+* REST APIs
+* JWT Authentication
+* Stripe Payment Integration
 
-## Tools & Technologies
+### Tools
 
-- Git
-- GitHub
-- Postman
-- VS Code
-- Cloudinary
-- Socket.io
-- Render
-- Vercel
-- ESLint
-- Prettier
+* Git
+* GitHub
+* Postman
+* VS Code
+* Cloudinary
+* Socket.io
+* Render
+* Vercel
+* ESLint
+* Prettier
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 ## 🏋️ GearUp API
 
-Sports equipment rental platform backend.
+**GearUp** is a production-ready RESTful Backend API for a sports and outdoor equipment rental platform.
 
-### Highlights
+The platform enables:
 
-- JWT Authentication
-- Role-Based Authorization
-- Prisma ORM
-- PostgreSQL
-- Stripe Payment Integration
-- Rental Order Workflow
-- Admin Dashboard APIs
-- Search, Filtering, Sorting & Pagination
+* 👤 Customers to browse and rent equipment
+* 🏪 Providers to manage inventory and rental orders
+* 👨‍💼 Administrators to oversee the entire platform
 
-🔗 Repository:
+### ✨ Highlights
+
+* 🔐 JWT Authentication & Role-Based Authorization
+* 👥 Multi-Role Access (Customer, Provider & Admin)
+* 📦 Complete Rental Order Workflow
+* 💳 Stripe Checkout & Secure Webhook Integration
+* 🗄️ PostgreSQL + Prisma ORM
+* 🔍 Search, Filtering, Sorting & Pagination
+* ✅ Request Validation with Zod
+* 🛡️ Centralized Error Handling
+* 🚀 Modular Backend Architecture
+
+**Tech Stack**
+
+Node.js • Express.js • TypeScript • PostgreSQL • Prisma ORM • Stripe • JWT
+
+🔗 Repository
 https://github.com/GitHub-Sanjit/GearUp
+
+🔗 Live API
+https://gearup-zk8c.onrender.com
 
 ---
 
+# 📂 Other Projects
+
 ## 🎵 Spotify Clone
 
-Modern Spotify-inspired music streaming platform.
+A modern Spotify-inspired music streaming platform featuring real-time messaging and media management.
 
-### Features
+**Tech Stack**
 
-- Real-time Messaging
-- Socket.io
-- Clerk Authentication
-- Cloudinary
-- React
-- Express
-- MongoDB
+React • Express • MongoDB • Socket.io • Clerk • Cloudinary
 
 🔗 Repository
-
 https://github.com/GitHub-Sanjit/spotify-clone
 
 ---
 
 ## 🔐 Advanced Authentication System
 
-Production-ready authentication backend.
+A production-ready authentication backend implementing secure authentication best practices.
 
 ### Features
 
-- JWT Authentication
-- Email Verification
-- Password Reset
-- Secure Cookies
-- bcrypt Password Hashing
+* JWT Authentication
+* Email Verification
+* Password Reset
+* Secure Cookies
+* Password Hashing (bcrypt)
 
 🔗 Repository
-
 https://github.com/GitHub-Sanjit/Advanced-Authentication-System
 
 ---
 
 ## 📊 Admin Dashboard
 
-Modern analytics dashboard built with React.
+A modern analytics dashboard with responsive UI and interactive charts.
 
-### Features
+**Tech Stack**
 
-- Responsive UI
-- Recharts
-- Framer Motion
-- Tailwind CSS
+React • Tailwind CSS • Recharts • Framer Motion
 
 🔗 Repository
-
 https://github.com/GitHub-Sanjit/admin-dashboard-react
 
 ---
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitHub-Sanjit&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitHub-Sanjit\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-Sanjit&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-Sanjit\&layout=compact)
 
 ---
 
 # 🌐 Connect With Me
 
-📧 **Email**
+📧 Email
+**[sanjit.est14@gmail.com](mailto:sanjit.est14@gmail.com)**
 
-sanjit.est14@gmail.com
-
-💼 **LinkedIn**
-
+💼 LinkedIn
 https://www.linkedin.com/in/sanjit-sarkar124/
 
-🐙 **GitHub**
-
+🐙 GitHub
 https://github.com/GitHub-Sanjit
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Focus
 
-- Build production-ready SaaS applications
-- Master System Design
-- Learn AWS & Docker
-- Contribute to Open Source
-- Become a Senior Backend Engineer
+* 🚀 Building scalable backend systems
+* ☁️ Learning AWS, Docker & CI/CD
+* 🏗️ Mastering System Design
+* 🤖 Exploring AI-powered Full-Stack Development
+* 💼 Preparing for Software Engineer opportunities
